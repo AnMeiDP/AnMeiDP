@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnMeiDP
-- 👀 I’m interested in learning about APIs
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in learning about coding embedded systems
+- 🌱 I’m studying Computer Engineering.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
